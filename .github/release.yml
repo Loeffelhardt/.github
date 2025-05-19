@@ -4,8 +4,6 @@ changelog:
     labels:
       - ignore-for-release
       - release
-    authors:
-      - loeffelhardt-bot
   categories:
     - title: Breaking Changes 💥
       labels:
